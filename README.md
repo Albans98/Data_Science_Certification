@@ -8,7 +8,7 @@ You can find more details on the official [website](https://www.coursera.org/pro
 
 # What is this repository for ?
 
-In this repository, you can find **articles** on the courses about Data Science that I decided to write to **prove my understanding.**
+In this repository, you can find **articles** that I decided to write about Data Science courses to **prove my understanding.**
 
 Feel free to navigate in the different **folders** above and read my articles.
 
