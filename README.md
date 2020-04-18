@@ -10,6 +10,10 @@ In this repository, you can find **articles on the courses** about Data Science 
 
 # Certifications
 
-- What is Data Science ? 
+- Course 1 : What is Data Science ? 
   - [Badge](https://www.youracclaim.com/badges/556b1691-c4d2-4363-82a5-19fb9d8b9355/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/SASU993DGJ96)
+
+- Course 2 : Open Source tools for Data Science
+  - Badge
+  - Certificate
