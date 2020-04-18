@@ -1,5 +1,11 @@
 # 🎓 IBM Data Science Professional Certificate
 
+![Passionofdatascience](https://images.unsplash.com/photo-1455849318743-b2233052fcff?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60)
+
+- [📍 Introduction](#-Introduction)
+- [💡 What is this repository for ?](#-What-is-this-repository-for-?)
+- [🏆 Badges & Certificates earned](#-Badges-&-Certificates-earned)
+
 ## 📍 Introduction
 
 I decided to do an online **certification** to show and improve my **Data Science** skills. 
