@@ -10,7 +10,9 @@ You can find more details on the official [website](https://www.coursera.org/pro
 
 In this repository, you can find **articles** on the courses about Data Science that I decided to write to **prove my understanding.**
 
-# Certifications
+Feel free to navigate in the different **folders** above and read my articles.
+
+# Badges & Certificates earned
 
 - Course 1 : [What is Data Science ?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
   - [Badge](https://www.youracclaim.com/badges/556b1691-c4d2-4363-82a5-19fb9d8b9355/linked_in_profile)
