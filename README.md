@@ -1,8 +1,12 @@
-# Data Science Course
+# Introduction
 
-I did an online course to improve my data science skills. 
+I decided to do an online **certification** to show and improve my **Data Science** skills. 
 
-You can find my writings about this course in the different folders.
+This certification is divided in **9 courses.**
+
+You can find more details on the official [website](https://www.coursera.org/professional-certificates/ibm-data-science#courses).
+
+In this repository, you can find **articles on the courses** about Data Science that I decided to write to **prove my understanding.**
 
 # Certifications
 
