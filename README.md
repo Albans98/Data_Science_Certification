@@ -1,4 +1,4 @@
-# Introduction
+# 📍 Introduction
 
 I decided to do an online **certification** to show and improve my **Data Science** skills. 
 
@@ -6,13 +6,13 @@ This certification is divided in **9 courses.**
 
 You can find more details on the official [website](https://www.coursera.org/professional-certificates/ibm-data-science#courses).
 
-# What is this repository for ?
+# 💡 What is this repository for ?
 
 In this repository, you can find **articles** that I decided to write about Data Science courses to **prove my understanding.**
 
 Feel free to navigate in the different **folders** above and read my articles.
 
-# Badges & Certificates earned
+# 🏆 Badges & Certificates earned
 
 - Course 1 : [What is Data Science ?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
   - [Badge](https://www.youracclaim.com/badges/556b1691-c4d2-4363-82a5-19fb9d8b9355/linked_in_profile)
