@@ -27,8 +27,8 @@ Feel free to navigate in the different **folders** above and read my articles.
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/SASU993DGJ96)
 
 - Course 2 : [Open Source tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)
-  - Badge
-  - Certificate
+  - [Badge](https://www.youracclaim.com/badges/7c73a322-c26d-4a65-944f-f227fbde0fa0/linked_in_profile)
+  - [Certificate](https://www.coursera.org/account/accomplishments/certificate/E2RD9A8LLEHC)
 
 - Course 3 : [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
   - Badge
