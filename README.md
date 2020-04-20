@@ -34,6 +34,8 @@ This course is an introduction to Data Science. I decided to write an article ab
 
 In this course, I learned how to use **notebooks like Jupyter and Zepellin.** I decided to write some code about **Data Cleaning**, since it's an important part of the Data Scientist job ! It is in `2. Open_Source_tools` folder.
 
+I used [this](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) dataset to do the cleaning process.
+
 - Course 3 : [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
   - Badge
   - Certificate
