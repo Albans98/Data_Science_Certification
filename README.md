@@ -16,9 +16,9 @@ You can find more details on the official [website](https://www.coursera.org/pro
 
 ## 💡 What is this repository for ?
 
-In this repository, you can find **articles** that I decided to write about Data Science courses to **prove my understanding.**
+In this repository, you can find **my work** that I decided to share about the Data Science courses.
 
-Feel free to navigate in the different **folders** above and see my achievements.
+Feel free to navigate in the different **folders** above and see what I did to get this certification.
 
 ## 🏆 Badges & Certificates earned and some explanations
 
@@ -34,7 +34,7 @@ This course is an introduction to Data Science. I decided to write an article ab
 
 In this course, I learned how to use **notebooks like Jupyter and Zepellin.** I decided to write some code about **Data Cleaning**, since it's an important part of the Data Scientist job ! It is in `2. Open_Source_tools` folder.
 
-I used [this](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) dataset to do the cleaning process.
+I did the cleaning process on [this](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) dataset.
 
 - Course 3 : [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
   - Badge
