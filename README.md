@@ -26,13 +26,13 @@ Feel free to navigate in the different **folders** above and see my achievements
   - [Badge](https://www.youracclaim.com/badges/556b1691-c4d2-4363-82a5-19fb9d8b9355/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/SASU993DGJ96)
 
-This course is an introduction to Data Science. I decided to write an article in `1. Whats_Data_Science` folder about it.
+This course is an introduction to Data Science. I decided to write an article about it. It is in `1. Whats_Data_Science` folder.
 
 - Course 2 : [Open Source tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)
   - [Badge](https://www.youracclaim.com/badges/7c73a322-c26d-4a65-944f-f227fbde0fa0/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/E2RD9A8LLEHC)
 
-In this course, I learnt how to use **notebooks like Jupyter and Zepellin.** I decided to write some code about **Data Cleaning**, since it's an important part of the Data Scientist job !
+In this course, I learnt how to use **notebooks like Jupyter and Zepellin.** I decided to write some code about **Data Cleaning**, since it's an important part of the Data Scientist job ! It is in `2. Open_Source_tools` folder.
 
 - Course 3 : [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
   - Badge
