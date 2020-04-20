@@ -32,7 +32,7 @@ This course is an introduction to Data Science. I decided to write an article ab
   - [Badge](https://www.youracclaim.com/badges/7c73a322-c26d-4a65-944f-f227fbde0fa0/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/E2RD9A8LLEHC)
 
-In this course, I learnt how to use **notebooks like Jupyter and Zepellin.** I decided to write some code about **Data Cleaning**, since it's an important part of the Data Scientist job ! It is in `2. Open_Source_tools` folder.
+In this course, I learned how to use **notebooks like Jupyter and Zepellin.** I decided to write some code about **Data Cleaning**, since it's an important part of the Data Scientist job ! It is in `2. Open_Source_tools` folder.
 
 - Course 3 : [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
   - Badge
