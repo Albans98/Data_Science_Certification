@@ -37,8 +37,8 @@ In this course, I learned how to use **notebooks like Jupyter and Zepellin.** I 
 I did the cleaning process on [this](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) dataset.
 
 - Course 3 : [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
-  - Badge(https://www.youracclaim.com/badges/e8b745f0-1edc-4905-afb7-a7cb3981b4db/linked_in_profile)
-  - Certificate(https://www.coursera.org/account/accomplishments/certificate/5R4G2XMAARF7)
+  - [Badge](https://www.youracclaim.com/badges/e8b745f0-1edc-4905-afb7-a7cb3981b4db/linked_in_profile)
+  - [Certificate](https://www.coursera.org/account/accomplishments/certificate/5R4G2XMAARF7)
 
 - Course 4 : [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
   - Badge
