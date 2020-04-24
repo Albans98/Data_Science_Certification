@@ -40,6 +40,8 @@ I did the cleaning process on [this](https://www.kaggle.com/dgomonov/new-york-ci
   - [Badge](https://www.youracclaim.com/badges/e8b745f0-1edc-4905-afb7-a7cb3981b4db/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/5R4G2XMAARF7)
 
+This course is teaching a methodology for Data Science. I decided to write an article about it. It is in `3. Data_Science_Methodology` folder.
+
 - Course 4 : [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
   - Badge
   - Certificate
