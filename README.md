@@ -22,12 +22,16 @@ Feel free to navigate in the different **folders** above and see what I did to g
 
 ## 🏆 Badges & Certificates earned and some explanations
 
+### Course 1
+
 - Course 1 : [What is Data Science ?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
   - [Badge](https://www.youracclaim.com/badges/556b1691-c4d2-4363-82a5-19fb9d8b9355/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/SASU993DGJ96)
 
 This course is an introduction to Data Science. I decided to write an article about it.  
 You can read it `1. Whats_Data_Science` folder.
+
+### Course 2
 
 - Course 2 : [Open Source tools for Data Science](https://www.coursera.org/learn/open-source-tools-for-data-science?specialization=ibm-data-science)
   - [Badge](https://www.youracclaim.com/badges/7c73a322-c26d-4a65-944f-f227fbde0fa0/linked_in_profile)
@@ -38,6 +42,8 @@ You can read it `2. Open_Source_tools` folder.
 
 I did the cleaning process on [this](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) dataset.
 
+### Course 3
+
 - Course 3 : [Data Science Methodology](https://www.coursera.org/learn/data-science-methodology?specialization=ibm-data-science)
   - [Badge](https://www.youracclaim.com/badges/e8b745f0-1edc-4905-afb7-a7cb3981b4db/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/5R4G2XMAARF7)
@@ -45,25 +51,37 @@ I did the cleaning process on [this](https://www.kaggle.com/dgomonov/new-york-ci
 This course is teaching a methodology for Data Science. I decided to write an article about it.  
 You can read it in `3. Data_Science_Methodology` folder.
 
+### Course 4
+
 - Course 4 : [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
   - Badge
   - Certificate
+
+### Course 5
 
 - Course 5 : [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
   - Badge
   - Certificate
 
+### Course 6
+
 - Course 6 : [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
   - Badge
   - Certificate
+
+### Course 7
 
 - Course 7 : [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
   - Badge
   - Certificate
 
+### Course 8
+
 - Course 8 : [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
   - Badge
   - Certificate
+
+### Course 9
 
 - Course 9 : [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone)
   - Badge
