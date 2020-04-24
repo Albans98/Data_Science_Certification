@@ -57,7 +57,8 @@ You can read it in `3. Data_Science_Methodology` folder.
   - [Badge](https://www.youracclaim.com/badges/b30561b2-63fc-4aff-a642-fae1266f2c16/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/S8F2C6XH3RPP)
 
-This course is about **Python objects, numpy arrays, pandas dataframes and APIs.**
+This course is about **Python objects, numpy arrays, pandas dataframes and APIs.**  
+To sum up, I learned what's on cheatsheets. See `4. Python_Data_AI` folder for more information.
 
 ### Course 5
 
