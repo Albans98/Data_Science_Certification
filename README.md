@@ -54,8 +54,10 @@ You can read it in `3. Data_Science_Methodology` folder.
 ### Course 4
 
 - Course 4 : [Python for Data Science and AI](https://www.coursera.org/learn/python-for-applied-data-science-ai?specialization=ibm-data-science)
-  - Badge
-  - Certificate
+  - [Badge](https://www.youracclaim.com/badges/b30561b2-63fc-4aff-a642-fae1266f2c16/linked_in_profile)
+  - [Certificate](https://www.coursera.org/account/accomplishments/certificate/S8F2C6XH3RPP)
+
+This course is about **Python objects, numpy arrays, pandas dataframes and APIs.**
 
 ### Course 5
 
