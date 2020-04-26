@@ -63,8 +63,13 @@ To sum up, I learned what's on cheatsheets. See `4. Python_Data_AI` folder for m
 ### Course 5
 
 - Course 5 : [Databases and SQL for Data Science](https://www.coursera.org/learn/sql-data-science)
-  - Badge
-  - Certificate
+  - [Badge](https://www.youracclaim.com/badges/c2c1086d-1d04-42d3-8897-1b2a144bb4f3/linked_in_profile)
+  - [Certificate](https://www.coursera.org/account/accomplishments/certificate/YTBAKSBXALMS)
+
+I learned how to query a database with **SQL.**  
+I learned how to use a database on **cloud.**  
+I learned how to use **Python to query a database**, using SQL.  
+See `5. SQL_Data_Science` folder for more information.
 
 ### Course 6
 
