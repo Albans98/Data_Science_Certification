@@ -74,8 +74,8 @@ See `5. SQL_Data_Science` folder for more information.
 ### Course 6
 
 - Course 6 : [Data Analysis with Python](https://www.coursera.org/learn/data-analysis-with-python)
-  - Badge
-  - Certificate
+  - [Badge](https://www.youracclaim.com/badges/10f81cdb-63f6-42b4-9405-ddbd35023611/linked_in_profile)
+  - [Certificate](https://www.coursera.org/account/accomplishments/certificate/NAP29BE56EUV)
 
 ### Course 7
 
