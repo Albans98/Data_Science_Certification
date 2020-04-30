@@ -77,6 +77,9 @@ See `5. SQL_Data_Science` folder for more information.
   - [Badge](https://www.youracclaim.com/badges/10f81cdb-63f6-42b4-9405-ddbd35023611/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/NAP29BE56EUV)
 
+During this course, I learned how to do **Data Wrangling**, **Data exploration**, **Model development** and **Model evaluation**.  
+See `6. Python_Data_Analysis` folder for more information.
+
 ### Course 7
 
 - Course 7 : [Data Visualization with Python](https://www.coursera.org/learn/python-for-data-visualization)
