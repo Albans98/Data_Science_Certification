@@ -88,7 +88,7 @@ See `6. Python_Data_Analysis` folder for more information.
 
 I learned how to choose between each visualization, depending on what I want to share with others.  
 I know how to use **Python** and packages like **matplotlib, seaborn** to create line charts, histograms, bar charts, pie charts, regression plots, scatter plots and so on.  
-I also learned how to visualize geospatial data with **folium** by creating interactive maps.
+I also learned how to visualize geospatial data with **folium** by creating interactive maps.  
 See `7. Python_Data_Visualization` folder for more information.
 
 ### Course 8
