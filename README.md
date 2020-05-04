@@ -94,8 +94,12 @@ See `7. Python_Data_Visualization` folder for more information.
 ### Course 8
 
 - Course 8 : [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python)
-  - Badge
-  - Certificate
+  - [Badge](https://www.youracclaim.com/badges/43ebf6f4-5a22-497b-9266-56277584595e/linked_in_profile)
+  - [Certificate](https://www.coursera.org/account/accomplishments/certificate/DCUQWX2C4UNW)
+
+During this course, I learned about *machine learning algorithms* for **regression, classification, clustering and recommender systems.**  
+I implemented them in Python.  
+See `8. Machine_Learning_Python` folder for more information.
 
 ### Course 9
 
