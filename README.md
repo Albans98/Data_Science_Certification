@@ -106,5 +106,7 @@ See `8. Machine_Learning_Python` folder for more information.
 ### Course 9
 
 - Course 9 : [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone)
-  - [Badge]()
+  - [Badge](https://www.youracclaim.com/badges/af64ec87-3b28-4cab-9d93-b6b0ce6842a0/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/AQ2N7P799N65)
+
+This course is a complete Data Science project. I did a project about location data to find the best place to open a new gym in Paris. I also wrote an article on linkedin !
