@@ -22,6 +22,8 @@ Feel free to navigate in the different **folders** above and see what I did to g
 
 ## 🏆 Badges & Certificates earned and some explanations
 
+See the final [certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/CNC9W84EDD29) !
+
 ### Course 1
 
 - Course 1 : [What is Data Science ?](https://www.coursera.org/learn/what-is-datascience?specialization=ibm-data-science)
@@ -104,5 +106,5 @@ See `8. Machine_Learning_Python` folder for more information.
 ### Course 9
 
 - Course 9 : [Applied Data Science Capstone](https://www.coursera.org/learn/applied-data-science-capstone)
-  - Badge
-  - Certificate
+  - [Badge]()
+  - [Certificate](https://www.coursera.org/account/accomplishments/certificate/AQ2N7P799N65)
