@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS=false; L_NO_TOUCH=false; L_DISABLE_3D=false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.4.0/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://rawcdn.githack.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css"/>
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+    <meta name="viewport" content="width=device-width,
+        initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <style>#map_55e23bba88f846788573edcdf8767453 {
+        position: relative;
+        width: 100.0%;
+        height: 100.0%;
+        left: 0.0%;
+        top: 0.0%;
+        }
+    </style>
+</head>
+<body>    
+    
+    <div class="folium-map" id="map_55e23bba88f846788573edcdf8767453" ></div>
+</body>
+<script>    
+    
+    
+        var bounds = null;
+    
+
+    var map_55e23bba88f846788573edcdf8767453 = L.map(
+        'map_55e23bba88f846788573edcdf8767453', {
+        center: [48.8533342, 2.3459126],
+        zoom: 13,
+        maxBounds: bounds,
+        layers: [],
+        worldCopyJump: false,
+        crs: L.CRS.EPSG3857,
+        zoomControl: true,
+        });
+
+
+    
+    var tile_layer_e3d8b7ddc2d744d59d80fb11548092eb = L.tileLayer(
+        'https://stamen-tiles-{s}.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg',
+        {
+        "attribution": null,
+        "detectRetina": false,
+        "maxNativeZoom": 18,
+        "maxZoom": 18,
+        "minZoom": 0,
+        "noWrap": false,
+        "opacity": 1,
+        "subdomains": "abc",
+        "tms": false
+}).addTo(map_55e23bba88f846788573edcdf8767453);
+    
+        var marker_95ccdedf646344dfb8333b0b0ee256d7 = L.marker(
+            [48.858324832333615, 2.3022175360684023],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_55e23bba88f846788573edcdf8767453);
+        
+    
+
+                var icon_edbaf9750c134180b8767f8d9cd30fce = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'red',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_95ccdedf646344dfb8333b0b0ee256d7.setIcon(icon_edbaf9750c134180b8767f8d9cd30fce);
+            
+    
+            var popup_d632177b4b8240cc85b13629ff86554c = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_edb138a97c6d4c14bfd92da0c23a907d = $(`<div id="html_edb138a97c6d4c14bfd92da0c23a907d" style="width: 100.0%; height: 100.0%;">131, Rue Saint-Dominique, Quartier du Gros-Caillou, Paris, Île-de-France, France métropolitaine, 75007, France</div>`)[0];
+                popup_d632177b4b8240cc85b13629ff86554c.setContent(html_edb138a97c6d4c14bfd92da0c23a907d);
+            
+
+            marker_95ccdedf646344dfb8333b0b0ee256d7.bindPopup(popup_d632177b4b8240cc85b13629ff86554c)
+            ;
+
+            
+        
+    
+            var circle_marker_a6b9b44f9e4443edb41b8ebd62ef9527 = L.circleMarker(
+                [48.858324832333615, 2.3022175360684023],
+                {
+  "bubblingMouseEvents": true,
+  "color": "green",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "green",
+  "fillOpacity": 0.4,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 20,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_55e23bba88f846788573edcdf8767453);
+            
+    
+        var marker_82226a3ff24b4e4c956a7d036cebfca3 = L.marker(
+            [48.83720392217804, 2.390273325707455],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_55e23bba88f846788573edcdf8767453);
+        
+    
+
+                var icon_9e24a72b4aff4dafafed29f6ef399562 = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'red',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_82226a3ff24b4e4c956a7d036cebfca3.setIcon(icon_9e24a72b4aff4dafafed29f6ef399562);
+            
+    
+            var popup_4dffdb44406a4dc5a95fe7cedea456e7 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_65cd92d149c04790899ff17453517275 = $(`<div id="html_65cd92d149c04790899ff17453517275" style="width: 100.0%; height: 100.0%;">33, Rue Proudhon, Quartier de Bercy, Paris, Île-de-France, France métropolitaine, 75012, France</div>`)[0];
+                popup_4dffdb44406a4dc5a95fe7cedea456e7.setContent(html_65cd92d149c04790899ff17453517275);
+            
+
+            marker_82226a3ff24b4e4c956a7d036cebfca3.bindPopup(popup_4dffdb44406a4dc5a95fe7cedea456e7)
+            ;
+
+            
+        
+    
+            var circle_marker_bf5d7dcb371242438e4552991ec0d842 = L.circleMarker(
+                [48.83720392217804, 2.390273325707455],
+                {
+  "bubblingMouseEvents": true,
+  "color": "green",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "green",
+  "fillOpacity": 0.4,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 20,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_55e23bba88f846788573edcdf8767453);
+            
+    
+        var marker_0de46a9f99db41c68e29ee06f34b7bf5 = L.marker(
+            [48.87753316921408, 2.395511533449906],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_55e23bba88f846788573edcdf8767453);
+        
+    
+
+                var icon_6415f718d4b6440d8422d3de056de9cd = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'red',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_0de46a9f99db41c68e29ee06f34b7bf5.setIcon(icon_6415f718d4b6440d8422d3de056de9cd);
+            
+    
+            var popup_27314e57d01745c6929e8fb417f09311 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_a41329774c5e49c08a3d90d5842719c6 = $(`<div id="html_a41329774c5e49c08a3d90d5842719c6" style="width: 100.0%; height: 100.0%;">Pharmacie Lafayette Daloy, 15, Rue Henri Ribière, Quartier d'Amérique, Paris, Île-de-France, France métropolitaine, 75019, France</div>`)[0];
+                popup_27314e57d01745c6929e8fb417f09311.setContent(html_a41329774c5e49c08a3d90d5842719c6);
+            
+
+            marker_0de46a9f99db41c68e29ee06f34b7bf5.bindPopup(popup_27314e57d01745c6929e8fb417f09311)
+            ;
+
+            
+        
+    
+            var circle_marker_f963702014da4b67be0724a59c065529 = L.circleMarker(
+                [48.87753316921408, 2.395511533449906],
+                {
+  "bubblingMouseEvents": true,
+  "color": "green",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "green",
+  "fillOpacity": 0.4,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 20,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_55e23bba88f846788573edcdf8767453);
+            
+    
+        var marker_3e23dd7be9c740f19653b02feb8f6bcc = L.marker(
+            [48.859706580837106, 2.3594603395473044],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_55e23bba88f846788573edcdf8767453);
+        
+    
+
+                var icon_0e4d0ee9ab6940f3b5f279c0d0afbfc3 = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'red',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_3e23dd7be9c740f19653b02feb8f6bcc.setIcon(icon_0e4d0ee9ab6940f3b5f279c0d0afbfc3);
+            
+    
+            var popup_0d358a61e8de4d1e89e55de57aacb051 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_2989394d42af465da8454e8126201698 = $(`<div id="html_2989394d42af465da8454e8126201698" style="width: 100.0%; height: 100.0%;">Hôtel de Rohan, Rue Vieille du Temple, Quartier des Archives, Paris, Île-de-France, France métropolitaine, 75003, France</div>`)[0];
+                popup_0d358a61e8de4d1e89e55de57aacb051.setContent(html_2989394d42af465da8454e8126201698);
+            
+
+            marker_3e23dd7be9c740f19653b02feb8f6bcc.bindPopup(popup_0d358a61e8de4d1e89e55de57aacb051)
+            ;
+
+            
+        
+    
+            var circle_marker_eeb54ff819484bb391b6dd133e9355d6 = L.circleMarker(
+                [48.859706580837106, 2.3594603395473044],
+                {
+  "bubblingMouseEvents": true,
+  "color": "green",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "green",
+  "fillOpacity": 0.4,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 20,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_55e23bba88f846788573edcdf8767453);
+            
+    
+        var marker_9bbbc8eb7a3548d9a00aa5ae9555b6d5 = L.marker(
+            [48.82938577457075, 2.3426786979862246],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_55e23bba88f846788573edcdf8767453);
+        
+    
+
+                var icon_691669d91a4e4f5ba68bac25cefa124f = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'red',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_9bbbc8eb7a3548d9a00aa5ae9555b6d5.setIcon(icon_691669d91a4e4f5ba68bac25cefa124f);
+            
+    
+            var popup_f12e11a9260244d4a9714e130ba98fc2 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_b0bbfbff1da848218c41780ee1797b78 = $(`<div id="html_b0bbfbff1da848218c41780ee1797b78" style="width: 100.0%; height: 100.0%;">École Glacière, Rue Sœur Catherine Marie, Cité Florale, Quartier de la Maison-Blanche, Paris, Île-de-France, France métropolitaine, 75013, France</div>`)[0];
+                popup_f12e11a9260244d4a9714e130ba98fc2.setContent(html_b0bbfbff1da848218c41780ee1797b78);
+            
+
+            marker_9bbbc8eb7a3548d9a00aa5ae9555b6d5.bindPopup(popup_f12e11a9260244d4a9714e130ba98fc2)
+            ;
+
+            
+        
+    
+            var circle_marker_8df9d29c625e4d02bbe63d97f907a84e = L.circleMarker(
+                [48.82938577457075, 2.3426786979862246],
+                {
+  "bubblingMouseEvents": true,
+  "color": "green",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "green",
+  "fillOpacity": 0.4,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 20,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_55e23bba88f846788573edcdf8767453);
+            
+    
+        var marker_106c1bc5879c4d91bf39fd6f2ed8bfe6 = L.marker(
+            [48.89098536242612, 2.32324979446311],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_55e23bba88f846788573edcdf8767453);
+        
+    
+
+                var icon_fd2f67a8fcaf4abdb360d180c9a316f6 = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'red',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_106c1bc5879c4d91bf39fd6f2ed8bfe6.setIcon(icon_fd2f67a8fcaf4abdb360d180c9a316f6);
+            
+    
+            var popup_e4de912a52944b5e9376d2b637bd4a04 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_6d99fd1b6f5d43e9a3e7f06f27963830 = $(`<div id="html_6d99fd1b6f5d43e9a3e7f06f27963830" style="width: 100.0%; height: 100.0%;">39, Rue Lacroix, Quartier des Épinettes, Paris, Île-de-France, France métropolitaine, 75017, France</div>`)[0];
+                popup_e4de912a52944b5e9376d2b637bd4a04.setContent(html_6d99fd1b6f5d43e9a3e7f06f27963830);
+            
+
+            marker_106c1bc5879c4d91bf39fd6f2ed8bfe6.bindPopup(popup_e4de912a52944b5e9376d2b637bd4a04)
+            ;
+
+            
+        
+    
+            var circle_marker_c60e57f65203471aaff787e6b5257800 = L.circleMarker(
+                [48.89098536242612, 2.32324979446311],
+                {
+  "bubblingMouseEvents": true,
+  "color": "green",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "green",
+  "fillOpacity": 0.4,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 20,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_55e23bba88f846788573edcdf8767453);
+            
+    
+        var marker_7530b296a81a44ed9861e4ecb56cd170 = L.marker(
+            [48.82998997343716, 2.3026110895597824],
+            {
+                icon: new L.Icon.Default(),
+                }
+            ).addTo(map_55e23bba88f846788573edcdf8767453);
+        
+    
+
+                var icon_e0428ac8e0e94914a44f8760846302e8 = L.AwesomeMarkers.icon({
+                    icon: 'star',
+                    iconColor: 'red',
+                    markerColor: 'green',
+                    prefix: 'glyphicon',
+                    extraClasses: 'fa-rotate-0'
+                    });
+                marker_7530b296a81a44ed9861e4ecb56cd170.setIcon(icon_e0428ac8e0e94914a44f8760846302e8);
+            
+    
+            var popup_351ae1c4ff7244e8b361c0cd17edbac7 = L.popup({maxWidth: '100%'
+            
+            });
+
+            
+                var html_807c08ae3636458a879c6fb49422e0f5 = $(`<div id="html_807c08ae3636458a879c6fb49422e0f5" style="width: 100.0%; height: 100.0%;">135 bis, Rue Castagnary, Quartier Saint-Lambert, Paris, Île-de-France, France métropolitaine, 75015, France</div>`)[0];
+                popup_351ae1c4ff7244e8b361c0cd17edbac7.setContent(html_807c08ae3636458a879c6fb49422e0f5);
+            
+
+            marker_7530b296a81a44ed9861e4ecb56cd170.bindPopup(popup_351ae1c4ff7244e8b361c0cd17edbac7)
+            ;
+
+            
+        
+    
+            var circle_marker_5e577b3838fe4b5495a2359314d69537 = L.circleMarker(
+                [48.82998997343716, 2.3026110895597824],
+                {
+  "bubblingMouseEvents": true,
+  "color": "green",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": true,
+  "fillColor": "green",
+  "fillOpacity": 0.4,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 20,
+  "stroke": true,
+  "weight": 3
+}
+                )
+                .addTo(map_55e23bba88f846788573edcdf8767453);
+            
+</script>
