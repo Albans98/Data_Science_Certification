@@ -109,4 +109,4 @@ See `8. Machine_Learning_Python` folder for more information.
   - [Badge](https://www.youracclaim.com/badges/af64ec87-3b28-4cab-9d93-b6b0ce6842a0/linked_in_profile)
   - [Certificate](https://www.coursera.org/account/accomplishments/certificate/AQ2N7P799N65)
 
-This course is a complete Data Science project. I did a project about location data to find the best place to open a new gym in Paris. I also wrote an article on linkedin !
+This course is a complete Data Science project. I did a project about location data to find the best place to open a new gym in Paris. I also wrote an [article on linkedin](https://www.linkedin.com/posts/alban-steff-260ab715b_datascience-article-professional-activity-6665340800928370688-_Z32) !
